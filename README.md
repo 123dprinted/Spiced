@@ -1,8 +1,8 @@
-# Fabric Example Mod
+# Telegram
 
-## Setup
+## Information
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Designed for a "vanilla" (with heavy sarcasm) way of quick communications, Telegram is a mod that adds old and antiquated means of telecommunication.
 
 ## License
 
