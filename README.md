@@ -1,8 +1,8 @@
-# Telegram
+# Coffee
 
 ## Information
 
-Designed for a "vanilla" (with heavy sarcasm) way of quick communications, Telegram is a mod that adds old and antiquated means of telecommunication.
+A vanilla mod that adds... (wait for it)... coffee!
 
 ## License
 
