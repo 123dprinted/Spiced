@@ -2,7 +2,8 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "spiced:raw_coffee_beans"
+      "item": "spiced:raw_coffee_beans",
+      "item": "spiced:knife"
     }
   ],
   "result": {
