@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "id": "coffee",
+  "id": "spiced",
   "version": "${version}",
 
-  "name": "Coffee",
-  "description": "Coffee is a short but sweet Minecraft mod that adds (you guessed it) coffee!",
+  "name": "Spiced",
+  "description": "Spiced is a mod dedicated to anything spices. Grow them, eat them, add them to food, follow your culinary dreams with Spiced!",
   "authors": [
     "123pdrinter"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/thereal123dprinter/Coffee"
+    "sources": "https://github.com/thereal123dprinter/Spiced"
   },
 
   "license": "CC0-1.0",
@@ -19,14 +19,14 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.printer.coffee.CoffeeMod"
+      "net.printer.spiced.SpicedMod"
     ],
     "client": [
-      "net.printer.coffee.CoffeeModClient"
+      "net.printer.spiced.SpicedModClient"
     ]
   },
   "mixins": [
-    "coffee.mixins.json"
+    "spiced.mixins.json"
   ],
 
   "depends": {

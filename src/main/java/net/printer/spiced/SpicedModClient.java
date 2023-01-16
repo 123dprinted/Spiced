@@ -1,8 +1,8 @@
-package net.printer.coffee;
+package net.printer.spiced;
 
 import net.fabricmc.api.ClientModInitializer;
 
-public class CoffeeModClient implements ClientModInitializer {
+public class SpicedModClient implements ClientModInitializer {
     @Override
     public void onInitializeClient() {
 
