@@ -2,6 +2,7 @@ package net.printer.spiced;
 
 import net.fabricmc.api.ModInitializer;
 import net.printer.spiced.items.Items;
+import net.printer.spiced.items.Tools;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -17,6 +18,7 @@ public class SpicedMod implements ModInitializer {
 		// This code runs as soon as Minecraft is in a mod-load-ready state.
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
+		Tools.registerModTools();
 		Items.registerModItems();
 		LOGGER.info("Hello Fabric world!");
 	}
