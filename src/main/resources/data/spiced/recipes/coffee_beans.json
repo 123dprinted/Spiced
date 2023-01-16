@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "spiced:raw_coffee_beans"
+    }
+  ],
+  "result": {
+    "item": "spiced:coffee_beans",
+    "count": 1
+  }
+}
