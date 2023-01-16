@@ -20,6 +20,9 @@
   "entrypoints": {
     "main": [
       "net.printer.coffee.CoffeeMod"
+    ],
+    "client": [
+      "net.printer.coffee.CoffeeModClient"
     ]
   },
   "mixins": [
