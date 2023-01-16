@@ -1,8 +1,8 @@
-# Coffee
+# Spiced
 
 ## Information
 
-A vanilla mod that adds... (wait for it)... coffee!
+A vanilla style mod that adds various spices to the game, along with other plants.
 
 ## License
 
